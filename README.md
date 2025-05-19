@@ -111,7 +111,7 @@ If you use this code or data, please cite:
 
 **Kaleem Mehmood**  
 College of Forestry, Beijing Forestry University  
-📧 [kaleemmehmood73@gmail.com](mailto:kaleemmehmood73@gmail.com)
+📧 [kaleemmehmood73@gmail.com]
 
 ---
 
