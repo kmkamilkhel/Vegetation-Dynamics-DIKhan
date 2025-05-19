@@ -2,11 +2,10 @@
 
 This repository provides the full reproducible workflow used in the research article:
 
-> Ahmad Anees, S., Mehmood, K., et al. (2024). *Spatiotemporal Dynamics and Environmental Drivers of Fractional Vegetation Cover in a Semi-Arid Region Using Machine Learning*. [Journal Name]
-
+> Ahmad Anees, S., Mehmood, K., et al. (2024). *Spatiotemporal Dynamics and Environmental Drivers of Fractional Vegetation Cover in a Semi-Arid Region Using Machine Learning*. 
 ---
 
-## 📍 Study Region
+## Study Region
 
 **Dera Ismail Khan (DIKhan), Pakistan**  
 - Coordinates: ~70.5°E to 71.6°E, 31.5°N to 32.6°N  
@@ -15,7 +14,7 @@ This repository provides the full reproducible workflow used in the research art
 
 ---
 
-## 📦 Repository Structure
+##  Repository Structure
 
 ```text
 ├── landsat_fvc_dikhan_2001_2024.js         # GEE script: Landsat NDVI & annual FVC composites
@@ -39,7 +38,7 @@ This repository provides the full reproducible workflow used in the research art
 
 ---
 
-## 🛠️ Methodological Summary
+##  Methodological Summary
 
 ### 1. Landsat NDVI & FVC Estimation
 - Sensor fusion of **Landsat 5 TM**, **7 ETM+**, and **8 OLI** (2001–2024)
@@ -90,7 +89,7 @@ This repository provides the full reproducible workflow used in the research art
 
 ---
 
-## 📊 Outputs
+##  Outputs
 
 - `FVC_XGBoost_Mean_SD.tif` — Raster stack of mean FVC and uncertainty (σᵢ)
 - `fvc_predictions_uncertainty.csv` — CSV export of spatial predictions with uncertainty
@@ -98,7 +97,7 @@ This repository provides the full reproducible workflow used in the research art
 
 ---
 
-## 📚 Citation
+##  Citation
 
 If you use this code or data, please cite:
 
@@ -108,7 +107,7 @@ If you use this code or data, please cite:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Kaleem Mehmood**  
 College of Forestry, Beijing Forestry University  
@@ -116,7 +115,7 @@ College of Forestry, Beijing Forestry University
 
 ---
 
-## 📝 License
+##  License
 
 This project is released under the **MIT License**.
 
